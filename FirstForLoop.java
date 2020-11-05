@@ -19,39 +19,24 @@ public class FirstForLoop {
 		{
 			System.out.println(i + " ");
 		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }
+/*
+Input a Start Value: 
+1
+Input a End Value: 
+100
+Input a Step Value: 
+10
+1 
+11 
+21 
+31 
+41 
+51 
+61 
+71 
+81 
+91 
+*/
